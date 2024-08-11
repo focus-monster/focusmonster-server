@@ -1,0 +1,309 @@
+소프트웨어 엔지니어, Software Engineer
+데이터 과학자, Data Scientist
+시스템 관리자, System Administrator
+네트워크 엔지니어, Network Engineer
+정보 보안 전문가, Information Security Specialist
+데이터베이스 관리자, Database Administrator
+웹 개발자, Web Developer
+모바일 앱 개발자, Mobile App Developer
+게임 개발자, Game Developer
+인공지능 연구원, AI Researcher
+기계 학습 엔지니어, Machine Learning Engineer
+로봇 공학자, Robotics Engineer
+전기 엔지니어, Electrical Engineer
+기계 엔지니어, Mechanical Engineer
+화학 엔지니어, Chemical Engineer
+토목 엔지니어, Civil Engineer
+환경 엔지니어, Environmental Engineer
+생명 공학자, Biomedical Engineer
+항공우주 엔지니어, Aerospace Engineer
+산업 엔지니어, Industrial Engineer
+재료 과학자, Materials Scientist
+건축가, Architect
+도시 계획가, Urban Planner
+실내 디자이너, Interior Designer
+그래픽 디자이너, Graphic Designer
+패션 디자이너, Fashion Designer
+제품 디자이너, Product Designer
+웹 디자이너, Web Designer
+UX/UI 디자이너, UX/UI Designer
+애니메이터, Animator
+일러스트레이터, Illustrator
+사진작가, Photographer
+영화 감독, Film Director
+비디오 편집자, Video Editor
+음악 프로듀서, Music Producer
+작곡가, Composer
+음악가, Musician
+가수, Singer
+배우, Actor
+무용수, Dancer
+극작가, Playwright
+소설가, Novelist
+시인, Poet
+기자, Journalist
+편집자, Editor
+카피라이터, Copywriter
+번역가, Translator
+통역사, Interpreter
+교사, Teacher
+교수, Professor
+연구원, Researcher
+학자, Scholar
+과학자, Scientist
+물리학자, Physicist
+화학자, Chemist
+생물학자, Biologist
+지구과학자, Geoscientist
+천문학자, Astronomer
+해양학자, Oceanographer
+환경 과학자, Environmental Scientist
+생태학자, Ecologist
+유전학자, Geneticist
+미생물학자, Microbiologist
+약학자, Pharmacologist
+신경과학자, Neuroscientist
+심리학자, Psychologist
+정신과 의사, Psychiatrist
+사회학자, Sociologist
+인류학자, Anthropologist
+고고학자, Archaeologist
+역사학자, Historian
+경제학자, Economist
+정치학자, Political Scientist
+법학자, Legal Scholar
+철학자, Philosopher
+종교학자, Theologian
+사회 복지사, Social Worker
+상담사, Counselor
+치료사, Therapist
+간호사, Nurse
+의사, Doctor
+치과의사, Dentist
+수의사, Veterinarian
+약사, Pharmacist
+물리 치료사, Physical Therapist
+작업 치료사, Occupational Therapist
+응급 의료사, Paramedic
+영양사, Dietitian
+검안사, Optometrist
+청력학자, Audiologist
+방사선사, Radiologic Technologist
+임상 실험실 기술자, Clinical Laboratory Technologist
+의공학자, Biomedical Technician
+법의학자, Forensic Scientist
+치과 위생사, Dental Hygienist
+의료 코더, Medical Coder
+의료 기록 기술자, Medical Records Technician
+보험 심사관, Claims Adjuster
+건강 관리자, Health Administrator
+병원 관리자, Hospital Administrator
+경영 컨설턴트, Management Consultant
+재무 분석가, Financial Analyst
+회계사, Accountant
+감사, Auditor
+투자 은행가, Investment Banker
+주식 중개인, Stockbroker
+자산 관리자, Asset Manager
+펀드 매니저, Fund Manager
+재무 계획사, Financial Planner
+보험 중개인, Insurance Broker
+부동산 중개인, Real Estate Broker
+부동산 개발자, Real Estate Developer
+건설 관리자, Construction Manager
+프로젝트 관리자, Project Manager
+운영 관리자, Operations Manager
+생산 관리자, Production Manager
+품질 관리자, Quality Manager
+공급망 관리자, Supply Chain Manager
+물류 관리자, Logistics Manager
+구매 관리자, Purchasing Manager
+마케팅 관리자, Marketing Manager
+브랜드 관리자, Brand Manager
+광고 관리자, Advertising Manager
+판매 관리자, Sales Manager
+고객 서비스 관리자, Customer Service Manager
+인사 관리자, Human Resources Manager
+채용 전문가, Recruiter
+교육 관리자, Training Manager
+노사 관계 전문가, Labor Relations Specialist
+법률 비서, Legal Secretary
+변호사, Lawyer
+판사, Judge
+검찰관, Prosecutor
+변호사 보조원, Paralegal
+법률 연구원, Legal Researcher
+계약 관리자, Contract Manager
+법무 관리자, Compliance Manager
+특허 검사관, Patent Examiner
+상표 검사관, Trademark Examiner
+정보 기술 관리자, IT Manager
+네트워크 관리자, Network Administrator
+시스템 분석가, Systems Analyst
+비즈니스 분석가, Business Analyst
+데이터 분석가, Data Analyst
+소프트웨어 품질 보증 엔지니어, QA Engineer
+기술 지원 전문가, Technical Support Specialist
+기술 작가, Technical Writer
+제품 관리자, Product Manager
+프로젝트 관리자, Project Coordinator
+프로그램 관리자, Program Manager
+운영 분석가, Operations Analyst
+전략 기획자, Strategic Planner
+경영 관리자, Business Manager
+창업가, Entrepreneur
+사업주, Business Owner
+소매업자, Retailer
+상점 관리자, Store Manager
+프랜차이즈 관리자, Franchise Manager
+판매원, Sales Representative
+구매 대리인, Buyer
+재고 관리자, Inventory Manager
+유통 관리자, Distribution Manager
+창고 관리자, Warehouse Manager
+운송 관리자, Transportation Manager
+무역 관리자, Trade Manager
+수출입 관리자, Import/Export Manager
+물류 분석가, Logistics Analyst
+공급망 분석가, Supply Chain Analyst
+구매 분석가, Purchasing Analyst
+품질 분석가, Quality Analyst
+안전 관리자, Safety Manager
+보건 관리자, Health Manager
+환경 관리자, Environmental Manager
+위험 관리자, Risk Manager
+보험 관리자, Insurance Manager
+보험 분석가, Insurance Analyst
+보험 손해 사정사, Insurance Adjuster
+보험 인수자, Insurance Underwriter
+보험 대리인, Insurance Agent
+연금 관리자, Pension Manager
+자산 관리 분석가, Asset Management Analyst
+투자 분석가, Investment Analyst
+재무 관리자, Financial Manager
+자산 관리자, Asset Manager
+재무 계획가, Financial Planner
+재무 고문, Financial Advisor
+자산 고문, Wealth Advisor
+자산 설계사, Wealth Planner
+재무 컨설턴트, Financial Consultant
+은행 관리자, Bank Manager
+지점 관리자, Branch Manager
+대출 관리자, Loan Manager
+신용 분석가, Credit Analyst
+대출 심사관, Loan Officer
+모기지 브로커, Mortgage Broker
+금융 서비스 관리자, Financial Services Manager
+채권 관리자, Bond Manager
+주식 관리자, Stock Manager
+펀드 관리자, Fund Manager
+신탁 관리자, Trust Manager
+자산 관리자, Asset Manager
+연금 관리자, Pension Manager
+신용 관리자, Credit Manager
+리스크 관리자, Risk Manager
+감사 관리자, Audit Manager
+법률 감사관, Legal Auditor
+재무 감사관, Financial Auditor
+운영 감사관, Operational Auditor
+내부 감사관, Internal Auditor
+외부 감사관, External Auditor
+IT 감사관, IT Auditor
+정보 보안 감사관, Information Security Auditor
+준법 감사관, Compliance Auditor
+환경 감사관, Environmental Auditor
+품질 감사관, Quality Auditor
+에너지 감사관, Energy Auditor
+프로젝트 감사관, Project Auditor
+공급망 감사관, Supply Chain Auditor
+물류 감사관, Logistics Auditor
+생산 감사관, Production Auditor
+구매 감사관, Purchasing Auditor
+재고 감사관, Inventory Auditor
+안전 감사관, Safety Auditor
+보건 감사관, Health Auditor
+위험 감사관, Risk Auditor
+보험 감사관, Insurance Auditor
+금융 감사관, Financial Auditor
+법무 감사관, Legal Auditor
+법률 고문, Legal Advisor
+기업 변호사, Corporate Lawyer
+소송 변호사, Litigation Lawyer
+형사 변호사, Criminal Lawyer
+민사 변호사, Civil Lawyer
+가정법 변호사, Family Lawyer
+이민 변호사, Immigration Lawyer
+노동법 변호사, Labor Lawyer
+지적 재산권 변호사, IP Lawyer
+특허 변호사, Patent Lawyer
+상표 변호사, Trademark Lawyer
+부동산 변호사, Real Estate Lawyer
+환경 변호사, Environmental Lawyer
+세무 변호사, Tax Lawyer
+국제법 변호사, International Lawyer
+기업 고문, Corporate Counsel
+계약 고문, Contract Counsel
+준법 고문, Compliance Counsel
+리스크 고문, Risk Counsel
+보험 고문, Insurance Counsel
+금융 고문, Financial Counsel
+자산 고문, Asset Counsel
+연금 고문, Pension Counsel
+신탁 고문, Trust Counsel
+신용 고문, Credit Counsel
+감사 고문, Audit Counsel
+법률 고문, Legal Advisor
+법무 고문, Legal Counsel
+법률 분석가, Legal Analyst
+법률 비서, Legal Secretary
+변호사 보조원, Paralegal
+법률 연구원, Legal Researcher
+법률 조사관, Legal Investigator
+법률 작가, Legal Writer
+법률 편집자, Legal Editor
+법률 출판인, Legal Publisher
+법률 강사, Legal Lecturer
+법률 교수, Law Professor
+법학자, Legal Scholar
+법률 연구원, Legal Researcher
+법률 비평가, Legal Critic
+법률 평론가, Legal Commentator
+법률 자문, Legal Consultant
+법률 고문, Legal Advisor
+법률 고문, Legal Counsel
+법률 분석가, Legal Analyst
+법률 비서, Legal Secretary
+변호사 보조원, Paralegal
+법률 연구원, Legal Researcher
+법률 조사관, Legal Investigator
+법률 작가, Legal Writer
+법률 편집자, Legal Editor
+법률 출판인, Legal Publisher
+법률 강사, Legal Lecturer
+법률 교수, Law Professor
+법학자, Legal Scholar
+법률 연구원, Legal Researcher
+법률 비평가, Legal Critic
+법률 평론가, Legal Commentator
+법률 자문, Legal Consultant
+법률 고문, Legal Advisor
+법률 고문, Legal Counsel
+법률 분석가, Legal Analyst
+법률 비서, Legal Secretary
+변호사 보조원, Paralegal
+법률 연구원, Legal Researcher
+법률 조사관, Legal Investigator
+법률 작가, Legal Writer
+법률 편집자, Legal Editor
+법률 출판인, Legal Publisher
+법률 강사, Legal Lecturer
+법률 교수, Law Professor
+최고 경영 책임자, Chief Executive Officer (CEO)
+최고 운영 책임자, Chief Operating Officer (COO)
+최고 재무 책임자, Chief Financial Officer (CFO)
+최고 정보 책임자, Chief Information Officer (CIO)
+최고 기술 책임자, Chief Technology Officer (CTO)
+최고 마케팅 책임자, Chief Marketing Officer (CMO)
+최고 인사 책임자, Chief Human Resources Officer (CHRO)
+최고 혁신 책임자, Chief Innovation Officer (CINO)
+최고 법무 책임자, Chief Legal Officer (CLO)
